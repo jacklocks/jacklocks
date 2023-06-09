@@ -1,16 +1,27 @@
-### Hi there 👋
+Bienvenue sur mon GitHub !
 
-<!--
-**jacklocks/jacklocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis fraîchement reconverti dans le domaine de la programmation après avoir suivi la formation intensive de 32 semaines chez The Hacking Project. Ce repository est un aperçu de mon parcours et de mes compétences en développement.
 
-Here are some ideas to get you started:
+À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je m'appelle Éric Castets et je suis passionné par le monde de la programmation et de la technologie. Après avoir découvert ma passion pour le code, j'ai entrepris une formation intensive chez The Hacking Project. Au cours de ces 32 semaines, j'ai acquis des connaissances approfondies en développement web et en programmation.
+
+Compétences
+
+Langages de programmation : Ruby
+Développement web : HTML, CSS, Ruby on rails, JavaScript, React
+Bases de données : postgresql
+
+Projets
+
+Ce repository contient une sélection de projets que j'ai réalisés au cours de ma formation. Chaque projet démontre mes compétences dans des domaines spécifiques et met en avant les technologies que j'ai utilisées.
+
+N'hésitez pas à explorer les différents projets et à consulter le code source associé. Je suis ouvert aux suggestions, aux commentaires et aux collaborations, alors n'hésitez pas à me contacter si vous souhaitez discuter de l'un de mes projets ou si vous avez des idées intéressantes à partager.
+
+Contact
+
+Si vous souhaitez me contacter, vous pouvez m'envoyer un e-mail à castets.eric@free.fr] ou me trouver sur LinkedIn linkedin.com/in/eric-castets-b894156a. Je suis ouvert aux opportunités professionnelles et aux collaborations intéressantes.
+
+Merci d'avoir visité mon GitHub et de prendre le temps de découvrir mon travail. J'espère que vous apprécierez votre visite et que nous aurons l'occasion de travailler ensemble à l'avenir !
+
+Éric Castets.
