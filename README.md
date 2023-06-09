@@ -6,7 +6,9 @@ Ce repository est un aperçu de mon parcours et de mes compétences en développ
 Compétences
 
 Langages de programmation : Ruby
+
 Développement web : HTML, CSS, Ruby on rails, JavaScript, React
+
 Bases de données : postgresql
 
 Projets
