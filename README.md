@@ -1,10 +1,7 @@
 Bienvenue sur mon GitHub !
 
-Je suis fraîchement reconverti dans le domaine de la programmation après avoir suivi la formation intensive de 32 semaines chez The Hacking Project. Ce repository est un aperçu de mon parcours et de mes compétences en développement.
-
-À propos de moi
-
 Je m'appelle Éric Castets et je suis passionné par le monde de la programmation et de la technologie. Après avoir découvert ma passion pour le code, j'ai entrepris une formation intensive chez The Hacking Project. Au cours de ces 32 semaines, j'ai acquis des connaissances approfondies en développement web et en programmation.
+Ce repository est un aperçu de mon parcours et de mes compétences en développement.
 
 Compétences
 
