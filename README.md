@@ -5,9 +5,9 @@ Ce repository est un aperçu de mon parcours et de mes compétences en développ
 
 Compétences
 
-Langages de programmation : Ruby, Javascript
+Langages de programmation : Javascript
 
-Développement web : HTML, CSS, Ruby on rails, React, Nextjs
+Développement web : HTML, CSS, React, Nextjs, Redux.js
 
 Bases de données : postgresql, mongoDB
 
@@ -19,7 +19,7 @@ N'hésitez pas à explorer les différents projets et à consulter le code sourc
 
 Contact
 
-Si vous souhaitez me contacter, vous pouvez m'envoyer un e-mail à castets.eric@free.fr] ou me trouver sur LinkedIn linkedin.com/in/eric-castets-b894156a. Je suis ouvert aux opportunités professionnelles et aux collaborations intéressantes.
+Si vous souhaitez me contacter, vous pouvez m'envoyer un e-mail à ecastets.seo@gmail.com] ou me trouver sur LinkedIn linkedin.com/in/eric-castets-b894156a. Je suis ouvert aux opportunités professionnelles et aux collaborations intéressantes.
 
 Merci d'avoir visité mon GitHub et de prendre le temps de découvrir mon travail. J'espère que vous apprécierez votre visite et que nous aurons l'occasion de travailler ensemble à l'avenir !
 
